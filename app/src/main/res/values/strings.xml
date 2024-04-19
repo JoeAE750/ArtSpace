@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="title1">Pastel Blue Sea</string>
+    <string name="artist1">Silvia Vassileva(2019)</string>
+    <string name="title2">The Colors of Life</string>
+    <string name="artist2">Chuck Pinson(2013)</string>
+    <string name="title3">Big Sky Longhorn</string>
+    <string name="artist3">Danhui Nai(2022)</string>
+    <string name="title4">La Collina Dei Papaveri</string>
+    <string name="artist4">Guido Borelli(2011)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
